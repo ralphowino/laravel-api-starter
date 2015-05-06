@@ -24,3 +24,7 @@ Easily queue jobs and broadcast to listeners results when necessary
 
 ##Rate Limiting, Caching & Concurrency Control
 Define rate limitations, auto cache responses and use e-tags for concurrency control
+
+## Developer/Client Registration and Management
+
+##Admin Panel
